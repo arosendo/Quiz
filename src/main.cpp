@@ -19,6 +19,7 @@ void checkRemote() {
     break;
     case UP_ARROW:
     Serial.println("UP");
+    //New case UP
     break;
     case DOWN_ARROW:
     Serial.println("DOWN");
