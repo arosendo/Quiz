@@ -22,8 +22,8 @@ void checkRemote() {
     Serial.println("UP");
     //New line
     break;
-    case DOWN_ARROW:
-    Serial.println("DOWN");
+    case VOLplus:
+    Serial.println("Volume plus");
     //more changes
     break;
   }
