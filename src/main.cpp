@@ -11,7 +11,8 @@ void checkRemote() {
     Serial.println("LEFT");
     //Do something fancy here, or set a specific state!
     //Other fancy things too!
-    //Adding more lines
+    //Adding
+    //New line
     break;
     case RIGHT_ARROW:
     Serial.println("RIGHT");
@@ -19,10 +20,11 @@ void checkRemote() {
     break;
     case UP_ARROW:
     Serial.println("UP");
-    //New case UP
+    //New line
     break;
     case DOWN_ARROW:
     Serial.println("DOWN");
+    //more changes
     break;
   }
 }
