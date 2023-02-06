@@ -1,7 +1,8 @@
 /**
  * 
- * QUIZ 1 - Follow the instructions for Q1-Q5
- * 
+ * QUIZ 1 - Follow the instructions for Q1-Q4
+ * Name - WRITE YOUR NAME HERE
+ *
  * */ 
 
 #include <Arduino.h>
