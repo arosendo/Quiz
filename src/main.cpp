@@ -1,8 +1,8 @@
 #include <Arduino.h>
-#include <IRdecoder.h>
-#include <ir_codes.h>
+#include <wpi-32u4-lib.h>
 
-IRDecoder decoder(14);
+#include <Chassis.h>
+
 
 void checkRemote() {
   int16_t code = decoder.getKeyCode();
